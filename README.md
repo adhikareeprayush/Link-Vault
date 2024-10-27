@@ -69,9 +69,9 @@ yarn start
 link-vault/
 │
 ├── src/
-│   ├── App.js          # Main application component
-│   ├── index.js        # Entry point
-│   └── styles.css      # Styling
+│   ├── App.jsx          # App component
+│   ├── index.css        # Stylings
+│   └── Main.jsx      # Entry Point
 │
 ├── public/
 │   └── index.html      # HTML template
